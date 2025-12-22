@@ -1,2 +1,8 @@
-# window-size
-A script that determines the size of a window in real time
+# window size
+***
+![main](assets/main.png)
+## Скрипт, который измеряет размер активного окна в реальном времени.
+***
+## Есть возможность менять шрифт
+
+![font](assets/font_set.png)
